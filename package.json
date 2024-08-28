@@ -1,0 +1,20 @@
+{
+  "name": "b-web-200-bar-2-1-epytodo-marie-caroline.beck",
+  "version": "1.0.0",
+  "description": "This is my backend project for a TODO list app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.7"
+  }
+}
